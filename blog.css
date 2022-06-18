@@ -5,7 +5,7 @@ h1 {
 
 p {
     text-shadow: 3px 3px darkgray;
-    text-align: center;
+    text-align: left;
 }
 
 li.horizontal {
@@ -21,5 +21,10 @@ a.horizontal {
 
 body {
     background-color: lightblue;
-    background-image: url(https://img1.goodfon.com/wallpaper/nbig/4/31/priroda-rastenie-kolosya.jpg)
+    background-image: url(https://img1.goodfon.com/wallpaper/nbig/4/31/priroda-rastenie-kolosya.jpg);
+    background-position: center;
+}
+
+div {
+    text-align: left;
 }
