@@ -7,3 +7,14 @@ p {
     text-shadow: 3px 3px darkgray;
     text-align: center;
 }
+
+li.horizontal {
+    display: inline;
+    float: left;
+}
+
+a.horizontal {
+    display: block;
+    padding: 8px;
+    background-color: brown;
+}
